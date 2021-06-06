@@ -10,6 +10,7 @@
 | React Material Dashboard Devias | [repository](https://github.com/asudbury/react-material-dashboard-devias) | https://asudbury.github.io/react-material-dashboard-devias           |
 | React Material Kit              | [repository](https://github.com/asudbury/react-material-kit)              | https://asudbury.github.io/react-material-kit/                       |
 | React Material Chartist         | [repository](https://github.com/asudbury/react-material-chartist)         | https://asudbury.github.io/react-material-chartist/                  |
+| React Gmail Clone               | [repository](https://github.com/asudbury/react-gmail-clone)               | https://asudbury.github.io/react-gmail-clone/                        |
 | Angular Material Dashboard      | [repository](https://github.com/asudbury/angular-material-dashboard)      | https://asudbury.github.io/angular-material-dashboard                |
 | Space Invaders                  | [repository](https://github.com/asudbury/space_invaders)                  | https://asudbury.github.io/space_invaders                            |
 | Material UI Theme Switcher      | [repository](https://github.com/asudbury/material-ui-theme-switcher)      | https://asudbury.github.io/material-ui-theme-switcher                |
