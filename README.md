@@ -1,4 +1,4 @@
-![github message](https://github.com/asudbury/asudbury/blob/master/github-message.gif?raw=true)
+![github message](https://github.com/asudbury/asudbury/blob/master/github-message-new.gif?raw=true)
 
 <font size="5" style="text-align: right">Get In Touch sudburya@gmail.com</font>
 
