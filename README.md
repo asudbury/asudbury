@@ -13,6 +13,7 @@
 | React Gmail Clone               | [repository](https://github.com/asudbury/react-gmail-clone)               | https://asudbury.github.io/react-gmail-clone/                                     |
 | React JIRA Clone                | [repository](https://github.com/asudbury/react-jira-clone)                | [https://asudbury.github.io/asudbury/react-jira-clone](http://jira.ivorreic.com/) |
 | React Material World            | [repository](https://github.com/asudbury/material-ui-world)               | https://asudbury.github.io/material-ui-world/                                     |
+| React Material Berry Dashboard  | [repository](https://github.com/asudbury/react-material-berry-dashboard)  | https://asudbury.github.io/react-material-berry-dashboard/                        |
 | Angular Material Dashboard      | [repository](https://github.com/asudbury/angular-material-dashboard)      | https://asudbury.github.io/angular-material-dashboard                             |
 | Space Invaders                  | [repository](https://github.com/asudbury/space_invaders)                  | https://asudbury.github.io/space_invaders                                         |
 | Material UI Theme Switcher      | [repository](https://github.com/asudbury/material-ui-theme-switcher)      | https://asudbury.github.io/material-ui-theme-switcher                             |
