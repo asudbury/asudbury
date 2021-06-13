@@ -1,13 +1,14 @@
-![github message](https://github.com/asudbury/asudbury/blob/master/github-message-new.gif?raw=true)
+![github message](https://github.com/asudbury/asudbury/blob/master/github-message-3.gif?raw=true)
 
-<font size="5" style="text-align: right">Get In Touch sudburya@gmail.com</font>
+<font size="6" style="text-align: right">Get In Touch sudburya@gmail.com</font>
 
 | Description                     | Repository                                                                | Website                                                                           |
 | ------------------------------- | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| React Material Dashboard        | [repository](https://github.com/asudbury/react-material-dashboard)        | https://asudbury.github.io/react-material-dashboard                               |
+| React Netflix Clone             | [repository](https://github.com/asudbury/react-netflix-clone)             | https://asudbury.github.io/react-netflix-clone                                    |
 | Json Rule Editor                | [repository](https://github.com/asudbury/json-rule-editor)                | https://asudbury.github.io/json-rule-editor                                       |
 | Json Rule Editor Help           | [repository](https://github.com/asudbury/json-rule-editor-docs)           | https://asudbury.github.io/json-rule-editor-docs                                  |
 | React Redux Real World          | [repository](https://github.com/asudbury/react-redux-realworld)           | https://asudbury.github.io/react-redux-realworld                                  |
-| React Material Dashboard        | [repository](https://github.com/asudbury/react-material-dashboard)        | https://asudbury.github.io/react-material-dashboard                               |
 | React Material Dashboard Devias | [repository](https://github.com/asudbury/react-material-dashboard-devias) | https://asudbury.github.io/react-material-dashboard-devias                        |
 | React Material Kit              | [repository](https://github.com/asudbury/react-material-kit)              | https://asudbury.github.io/react-material-kit                                     |
 | React Material Chartist         | [repository](https://github.com/asudbury/react-material-chartist)         | https://asudbury.github.io/react-material-chartist                                |
