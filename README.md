@@ -8,14 +8,14 @@
 | React Netflix Clone             | [repository](https://github.com/asudbury/react-netflix-clone)             | https://asudbury.github.io/react-netflix-clone                                    |
 | React Facebook Clone            | [repository](https://github.com/asudbury/react-facebook-clone)            | https://asudbury.github.io/react-facebook-clone                                   |
 | React Spotify Clone             | [repository](https://github.com/asudbury/react-spotify-clone)             | https://asudbury.github.io/react-spotify-clone                                    |
+| React Gmail Clone               | [repository](https://github.com/asudbury/react-gmail-clone)               | https://asudbury.github.io/react-gmail-clone                                      |
+| React JIRA Clone                | [repository](https://github.com/asudbury/react-jira-clone)                | [https://asudbury.github.io/asudbury/react-jira-clone](http://jira.ivorreic.com/) |
 | Json Rule Editor                | [repository](https://github.com/asudbury/json-rule-editor)                | https://asudbury.github.io/json-rule-editor                                       |
 | Json Rule Editor Help           | [repository](https://github.com/asudbury/json-rule-editor-docs)           | https://asudbury.github.io/json-rule-editor-docs                                  |
 | React Redux Real World          | [repository](https://github.com/asudbury/react-redux-realworld)           | https://asudbury.github.io/react-redux-realworld                                  |
 | React Material Dashboard Devias | [repository](https://github.com/asudbury/react-material-dashboard-devias) | https://asudbury.github.io/react-material-dashboard-devias                        |
 | React Material Kit              | [repository](https://github.com/asudbury/react-material-kit)              | https://asudbury.github.io/react-material-kit                                     |
 | React Material Chartist         | [repository](https://github.com/asudbury/react-material-chartist)         | https://asudbury.github.io/react-material-chartist                                |
-| React Gmail Clone               | [repository](https://github.com/asudbury/react-gmail-clone)               | https://asudbury.github.io/react-gmail-clone                                      |
-| React JIRA Clone                | [repository](https://github.com/asudbury/react-jira-clone)                | [https://asudbury.github.io/asudbury/react-jira-clone](http://jira.ivorreic.com/) |
 | React Material World            | [repository](https://github.com/asudbury/material-ui-world)               | https://asudbury.github.io/material-ui-world                                      |
 | React Material Berry Dashboard  | [repository](https://github.com/asudbury/react-material-berry-dashboard)  | https://asudbury.github.io/react-material-berry-dashboard                         |
 | Angular Material Dashboard      | [repository](https://github.com/asudbury/angular-material-dashboard)      | https://asudbury.github.io/angular-material-dashboard                             |
