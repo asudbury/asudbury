@@ -7,6 +7,7 @@
 | React Material Dashboard        | [repository](https://github.com/asudbury/react-material-dashboard)        | https://asudbury.github.io/react-material-dashboard                               |
 | React Netflix Clone             | [repository](https://github.com/asudbury/react-netflix-clone)             | https://asudbury.github.io/react-netflix-clone                                    |
 | React Facebook Clone            | [repository](https://github.com/asudbury/react-facebook-clone)            | https://asudbury.github.io/react-facebook-clone                                   |
+| React Spotify Clone             | [repository](https://github.com/asudbury/react-spotify-clone)             | https://asudbury.github.io/react-spotify-clone                                    |
 | Json Rule Editor                | [repository](https://github.com/asudbury/json-rule-editor)                | https://asudbury.github.io/json-rule-editor                                       |
 | Json Rule Editor Help           | [repository](https://github.com/asudbury/json-rule-editor-docs)           | https://asudbury.github.io/json-rule-editor-docs                                  |
 | React Redux Real World          | [repository](https://github.com/asudbury/react-redux-realworld)           | https://asudbury.github.io/react-redux-realworld                                  |
