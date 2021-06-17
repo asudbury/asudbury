@@ -23,6 +23,7 @@
 | Material UI Theme Creator       | [repository](https://github.com/asudbury/mui-theme-creator)               | https://asudbury.github.io/mui-theme-creator                                      |
 | React Open Weather              | [repository](https://github.com/asudbury/react-open-weather)              | https://asudbury.github.io/react-open-weather                                     |
 | React Hello World               | [repository](https://github.com/asudbury/react-hello-world)               | https://asudbury.github.io/react-hello-world                                      |
+| React Calculator                | [repository](https://github.com/asudbury/react-calculator)                | https://asudbury.github.io/react-calculator                                       |
 | React Redux Todo                | [repository](https://github.com/asudbury/react-redux-todo)                | https://asudbury.github.io/react-redux-todo                                       |
 | React Redux Toolkit Todo        | [repository](https://github.com/asudbury/react-redux-toolkit-todo)        | https://asudbury.github.io/react-redux-toolkit-todo                               |
 | Azure Function Greeting         | [repository](https://github.com/asudbury/Azure-Greeting)                  | https://azure-greeting.azurewebsites.net/api/Greeting?name=JohnDoe                |
