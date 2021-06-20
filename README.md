@@ -32,3 +32,4 @@
 | React Redux Toolkit Todo        | [repository](https://github.com/asudbury/react-redux-toolkit-todo)        | https://asudbury.github.io/react-redux-toolkit-todo                               |
 | Azure Function Greeting         | [repository](https://github.com/asudbury/Azure-Greeting)                  | https://azure-greeting.azurewebsites.net/api/Greeting?name=JohnDoe                |
 | Azure Function City Lookup      | [repository](https://github.com/asudbury/Azure-City-Lookup)               | http://azure-cities-lookup.azurewebsites.net/api/lookup?q=Nottingham              |
+| Fireworks                       | [repository](https://github.com/asudbury/fireworks)                       | https://asudbury.github.io/fireworks                                              |
