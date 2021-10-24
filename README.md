@@ -4,6 +4,10 @@
 
 | Description                     | Repository                                                                | Website                                                                           |
 | ------------------------------- | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| React Admin Simple              | [repository](https://github.com/asudbury/react-admin-simple)              | https://asudbury.github.io/react-admin-simple                                     |
+| React Admin Tutorial            | [repository](https://github.com/asudbury/react-admin-tutorial)            | https://asudbury.github.io/react-admin-tutorial                                   |
+| React Admin CRM                 | [repository](https://github.com/asudbury/react-admin-crm)                 | https://asudbury.github.io/react-admin-crm                                        |
+| React Admin Demo                | [repository](https://github.com/asudbury/react-admin-demo)                | https://asudbury.github.io/react-admin-demo                                       |
 | SpaceX Launches                 | [repository](https://github.com/asudbury/spacex-launches)                 | https://asudbury.github.io/spacex-launches                                        |
 | React Material Dashboard        | [repository](https://github.com/asudbury/react-material-dashboard)        | https://asudbury.github.io/react-material-dashboard                               |
 | React Netflix Clone             | [repository](https://github.com/asudbury/react-netflix-clone)             | https://asudbury.github.io/react-netflix-clone                                    |
