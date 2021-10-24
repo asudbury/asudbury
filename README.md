@@ -4,6 +4,7 @@
 
 | Description                     | Repository                                                                | Website                                                                           |
 | ------------------------------- | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| Azure Static Web App            | [repository](https://github.com/asudbury/azure-static-web-app)            | https://nice-plant-05bbd1103.azurestaticapps.net/                                 |
 | React Admin Simple              | [repository](https://github.com/asudbury/react-admin-simple)              | https://asudbury.github.io/react-admin-simple                                     |
 | React Admin Tutorial            | [repository](https://github.com/asudbury/react-admin-tutorial)            | https://asudbury.github.io/react-admin-tutorial                                   |
 | React Admin CRM                 | [repository](https://github.com/asudbury/react-admin-crm)                 | https://asudbury.github.io/react-admin-crm                                        |
