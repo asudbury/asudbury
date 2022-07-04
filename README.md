@@ -1,5 +1,9 @@
 ![github message](https://github.com/asudbury/asudbury/blob/master/github-message-4.gif?raw=true)
 
+<a href="#">
+  <img src="https://raw.githubusercontent.com/asudbury/github-stats-transparent/output/generated/overview.svg" alt="Adrian Sudbury GitHub stats"  />
+</a>
+
 <font size="7" style="text-align: right">Get In Touch sudburya@gmail.com</font>
 
 | Description                                                              | Repository                                                                | Website                                                                           |
