@@ -1,8 +1,9 @@
 ![github message](https://github.com/asudbury/asudbury/blob/master/github-message-4.gif?raw=true)
 
-<a href="#">
+<p float="left">
   <img src="https://raw.githubusercontent.com/asudbury/github-stats-transparent/output/generated/overview.svg" alt="Adrian Sudbury GitHub stats"  />
-</a>
+  <img src="https://raw.githubusercontent.com/asudbury/github-stats-transparent/output/generated/languages.svg" alt="Languages used" />
+</p>
 
 <font size="7" style="text-align: right">Get In Touch sudburya@gmail.com</font>
 
