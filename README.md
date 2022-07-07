@@ -10,7 +10,7 @@
 
 <table align="left" cellspacing="0" cellpadding="0" width="100%">
   <tr>
-    <td><h3 style="vertical-align:middle">I'm currently working on <img style="vertical-align:middle" src="assets/svg/aws.svg"/> with the following tech :-</h3></td>
+    <td colspan='4'><h3 style="vertical-align:middle">I'm currently working on <img style="vertical-align:middle" src="assets/svg/aws.svg"/> with the following tech :-</h3></td>
   </tr>
   <tr> 
     <td align="center"><img src="assets/svg/nodejs.svg"/><br>NodeJS<br><br></td>
