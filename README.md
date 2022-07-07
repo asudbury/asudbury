@@ -1,11 +1,42 @@
-![github message](https://github.com/asudbury/asudbury/blob/master/github-message-4.gif?raw=true)
+<h2>Hey 👋, I'm Adrian Sudbury!</h2>
+
+<br>
+
+<h3>Get In Touch at <a href="mailto:sudburya@gmail.com">sudburya@gmail.com</a></h3>
+
+<table align="left">
+  <tr>
+    <td><h3 style="vertical-align:middle">I'm currently working on <img style="vertical-align:middle" src="assets/svg/aws.svg"/> with the following tech :-</h3></td>
+  </tr>
+</table>
+
+<table align="left" cellspacing="0" cellpadding="0" width="100%">
+  <tr> 
+    <td align="center"><img src="assets/svg/nodejs.svg"/><br>NodeJS<br><br></td>
+    <td align="center"><img src="assets/svg/typescript.svg"/><br>TypeScript<br><br></td>
+    <td align="center"><img src="assets/svg/react.svg"/><br>React<br><br></td>
+    <td align="center"><img src="assets/svg/pulumi.svg"/><br>Pulumi<br><br></td>
+  </tr>
+  <tr>
+    <td align="center"><br><img src="assets/svg/serverless.svg"/><br>Serverless<br><br></td>
+    <td align="center"><br><img src="assets/svg/vpc.svg"/><br>VPC</td>
+    <td align="center"><br><img src="assets/svg/apigateway.svg"/><br>API Gateway<br><br></td>
+    <td align="center"><br><img src="assets/svg/lambda.svg"/><br>Lambda<br><br></td>
+  </tr>
+  <tr>
+    <td align="center"><br><img src="assets/svg/aurora.svg"/><br>Aurora RDS</td>
+    <td align="center"><br><img src="assets/svg/sqs.svg"/><br>SQS</td>
+    <td align="center"><br><img src="assets/svg/s3Bucket.svg"/><br>S3 Bucket</td>
+   <td align="center"><br><img src="assets/svg/cloudFront.svg"/><br>CloudFront</td>
+  </tr>
+</table>
+
+<br>
 
 <p float="left">
   <img src="https://raw.githubusercontent.com/asudbury/github-stats-transparent/output/generated/overview.svg" alt="Adrian Sudbury GitHub stats"  />
   <img src="https://raw.githubusercontent.com/asudbury/github-stats-transparent/output/generated/languages.svg" alt="Languages used" />
 </p>
-
-<font size="7" style="text-align: right">Get In Touch sudburya@gmail.com</font>
 
 | Description                                                              | Repository                                                                | Website                                                                           |
 | ------------------------------------------------------------------------ | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
