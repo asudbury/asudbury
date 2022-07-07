@@ -4,10 +4,7 @@
 
 <table cellspacing="5" cellpadding="5" width="100%">
   <tr>
-    <td colspan='4'><img style="vertical-align:middle" src="assets/svg/aws.svg"/></td>
-  </tr>
-  <tr>
-    <td colspan='4'><h3 style="vertical-align:middle">I'm currently working on AWS with the following</h3></td>
+    <td colspan='4'><h3>I'm currently working on AWS with the following</h3></td>
   </tr>
   <tr> 
     <td align="center"><img src="assets/svg/nodejs.svg"/><br>NodeJS</td>
