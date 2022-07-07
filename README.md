@@ -2,7 +2,7 @@
 
 <h3>Get In Touch at <a href="mailto:sudburya@gmail.com">sudburya@gmail.com</a></h3>
 
-<table align="left" cellspacing="0" cellpadding="0" width="500px">
+<table align="left" cellspacing="0" cellpadding="0" width="800px">
   <tr>
     <td colspan='4'><h3 style="vertical-align:middle">I'm currently working on <img style="vertical-align:middle" src="assets/svg/aws.svg"/> with the following</h3></td>
   </tr>
