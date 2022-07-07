@@ -28,8 +28,12 @@
 
 <br>
 
-  <img src="https://raw.githubusercontent.com/asudbury/github-stats-transparent/output/generated/overview.svg" alt="Adrian Sudbury GitHub stats"  />
-  <img src="https://raw.githubusercontent.com/asudbury/github-stats-transparent/output/generated/languages.svg" alt="Languages used" />
+<table align="left" cellspacing="0" cellpadding="0" width="100%">
+  <tr>
+    <td> <img src="https://raw.githubusercontent.com/asudbury/github-stats-transparent/output/generated/overview.svg" alt="Adrian Sudbury GitHub stats"  /></td>
+    <td><img src="https://raw.githubusercontent.com/asudbury/github-stats-transparent/output/generated/languages.svg" alt="Languages used" /></td>
+  </tr>
+</table>
 
 | Description                                                              | Repository                                                                | Website                                                                           |
 | ------------------------------------------------------------------------ | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
