@@ -31,7 +31,7 @@
 
 <br>
 
-<p float="left">
+<p>
   <img src="https://raw.githubusercontent.com/asudbury/github-stats-transparent/output/generated/overview.svg" alt="Adrian Sudbury GitHub stats"  />
   <img src="https://raw.githubusercontent.com/asudbury/github-stats-transparent/output/generated/languages.svg" alt="Languages used" />
 </p>
