@@ -2,27 +2,27 @@
 
 <h3>Get In Touch at <a href="mailto:sudburya@gmail.com">sudburya@gmail.com</a></h3>
 
-<table align="left" cellspacing="0" cellpadding="0" width="800px">
+<table cellspacing="5" cellpadding="5" width="100%">
   <tr>
     <td colspan='4'><h3 style="vertical-align:middle">I'm currently working on <img style="vertical-align:middle" src="assets/svg/aws.svg"/> with the following</h3></td>
   </tr>
   <tr> 
-    <td align="center"><img src="assets/svg/nodejs.svg"/><br>NodeJS<br><br></td>
-    <td align="center"><img src="assets/svg/typescript.svg"/><br>TypeScript<br><br></td>
-    <td align="center"><img src="assets/svg/react.svg"/><br>React<br><br></td>
-    <td align="center"><img src="assets/svg/pulumi.svg"/><br>Pulumi<br><br></td>
+    <td align="center"><img src="assets/svg/nodejs.svg"/><br>NodeJS</td>
+    <td align="center"><img src="assets/svg/typescript.svg"/><br>TypeScript</td>
+    <td align="center"><img src="assets/svg/react.svg"/><br>React</td>
+    <td align="center"><img src="assets/svg/pulumi.svg"/><br>Pulumi</td>
   </tr>
   <tr>
-    <td align="center"><br><img src="assets/svg/serverless.svg"/><br>Serverless<br><br></td>
-    <td align="center"><br><img src="assets/svg/vpc.svg"/><br>VPC</td>
-    <td align="center"><br><img src="assets/svg/apigateway.svg"/><br>API Gateway<br><br></td>
-    <td align="center"><br><img src="assets/svg/lambda.svg"/><br>Lambda<br><br></td>
+    <td align="center"><img src="assets/svg/serverless.svg"/><br>Serverless</td>
+    <td align="center"><img src="assets/svg/vpc.svg"/><br>VPC</td>
+    <td align="center"><img src="assets/svg/apigateway.svg"/><br>API Gateway</td>
+    <td align="center"><img src="assets/svg/lambda.svg"/><br>Lambda</td>
   </tr>
   <tr>
-    <td align="center"><br><img src="assets/svg/aurora.svg"/><br>Aurora RDS</td>
-    <td align="center"><br><img src="assets/svg/sqs.svg"/><br>SQS</td>
-    <td align="center"><br><img src="assets/svg/s3Bucket.svg"/><br>S3 Bucket</td>
-   <td align="center"><br><img src="assets/svg/cloudFront.svg"/><br>CloudFront</td>
+    <td align="center"><img src="assets/svg/aurora.svg"/><br>Aurora RDS</td>
+    <td align="center"><img src="assets/svg/sqs.svg"/><br>SQS</td>
+    <td align="center"><img src="assets/svg/s3Bucket.svg"/><br>S3 Bucket</td>
+   <td align="center"><img src="assets/svg/cloudFront.svg"/><br>CloudFront</td>
   </tr>
 </table>
 
