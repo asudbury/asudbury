@@ -9,6 +9,9 @@
 </table>
 
 <table align="left" cellspacing="0" cellpadding="0" width="100%">
+  <tr>
+    <td><h3 style="vertical-align:middle">I'm currently working on <img style="vertical-align:middle" src="assets/svg/aws.svg"/> with the following tech :-</h3></td>
+  </tr>
   <tr> 
     <td align="center"><img src="assets/svg/nodejs.svg"/><br>NodeJS<br><br></td>
     <td align="center"><img src="assets/svg/typescript.svg"/><br>TypeScript<br><br></td>
@@ -31,10 +34,8 @@
 
 <br>
 
-<p>
   <img src="https://raw.githubusercontent.com/asudbury/github-stats-transparent/output/generated/overview.svg" alt="Adrian Sudbury GitHub stats"  />
   <img src="https://raw.githubusercontent.com/asudbury/github-stats-transparent/output/generated/languages.svg" alt="Languages used" />
-</p>
 
 | Description                                                              | Repository                                                                | Website                                                                           |
 | ------------------------------------------------------------------------ | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
