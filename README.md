@@ -1,10 +1,8 @@
 <h2>Hey 👋, I'm Adrian Sudbury!</h2>
 
-<br>
-
 <h3>Get In Touch at <a href="mailto:sudburya@gmail.com">sudburya@gmail.com</a></h3>
 
-<table align="left">
+<table align="left" width="100%">
   <tr>
     <td><h3 style="vertical-align:middle">I'm currently working on <img style="vertical-align:middle" src="assets/svg/aws.svg"/> with the following tech :-</h3></td>
   </tr>
