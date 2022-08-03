@@ -5,13 +5,9 @@
 
 <br />
 
-<table cellspacing="0" cellpadding="0">
-  <tr>
-    <td><h3>I'm currently working on</h3></td>
-    <td><img src="assets/svg/aws.svg"/></td>
-    <td><h3>with the following</h3></td>
-  </tr>
-</table>
+<h3>I'm currently working on&nbsp;&nbsp;&nbsp;<img src="assets/svg/aws.svg"/>&nbsp;&nbsp;&nbsp;with the following</h3>
+
+<br />
 
 <table cellspacing="5" cellpadding="5" width="100%">
   <tr> 
