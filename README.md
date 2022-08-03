@@ -1,11 +1,19 @@
 <h2>Hey 👋, I'm Adrian Sudbury!</h2>
 
+<br />
 <h3>Get In Touch at <a href="mailto:sudburya@gmail.com">sudburya@gmail.com</a></h3>
 
-<table cellspacing="5" cellpadding="5" width="100%">
+<br />
+
+<table cellspacing="0" cellpadding="0">
   <tr>
-    <td colspan='4'><h3>I'm currently working on AWS with the following</h3></td>
+    <td><h3>I'm currently working on</h3></td>
+    <td><img src="assets/svg/aws.svg"/></td>
+    <td><h3>with the following</h3></td>
   </tr>
+</table>
+
+<table cellspacing="5" cellpadding="5" width="100%">
   <tr> 
     <td align="center">
       <a href="https://nodejs.org/">
