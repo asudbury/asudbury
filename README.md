@@ -3,8 +3,6 @@
 <br />
 <h3>Get In Touch at <a href="mailto:sudburya@gmail.com">sudburya@gmail.com</a></h3>
 
-<br />
-
 <h3>I'm currently working on&nbsp;&nbsp;&nbsp;<img src="assets/svg/aws.svg"/>&nbsp;&nbsp;&nbsp;with the following</h3>
 
 <br />
