@@ -24,51 +24,67 @@
     </td>
     <td align="center">
       <a href="https://pulumi.com">
-        <img src="assets/svg/pulumi.svg"/ height="75px"><br>Pulumi
+        <img src="assets/svg/pulumi.svg" height="75px"><br>Pulumi
       </a>  
     </td>
+    <td align="center">
+      <a href="https://aws.amazon.com/cdk">
+        <img src="assets/svg/cdk.svg" height="75px"><br>AWS CDK
+      </a>
+    </td>
+
   </tr>
   <tr>
-      <td align="center">
+    <td align="center">
       <a href="https://aws.amazon.com/serverless">
-        <img src="assets/svg/serverless.svg"/><br>Serverless
+        <img src="assets/svg/serverless.svg"  height="75px"/><br>Serverless
       </a>  
     </td>
     <td align="center">
       <a href="https://aws.amazon.com/vpc">
-        <img src="assets/svg/vpc.svg"/><br>VPC
+        <img src="assets/svg/vpc.svg"  height="75px"/><br>VPC
       </a>  
     </td>
     <td align="center">
       <a href="https://aws.amazon.com/api-gateway">
-        <img src="assets/svg/apigateway.svg"/><br>API Gateway
+        <img src="assets/svg/apigateway.svg" height="75px"/><br>API Gateway
       </a>  
     </td>
     <td align="center">
       <a href="https://aws.amazon.com/lambda">
-        <img src="assets/svg/lambda.svg"/><br>Lambda
+        <img src="assets/svg/lambda.svg" height="75px"/><br>Lambda
+      </a>  
+    </td>
+        <td align="center">
+      <a href="https://aws.amazon.com/dynamodb">
+        <img src="assets/svg/dynamodb.svg"  height="75px"/><br>DynamoDB
       </a>  
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://aws.amazon.com/rds/aurora">
-        <img src="assets/svg/aurora.svg"/><br>Aurora RDS
+        <img src="assets/svg/aurora.svg" height="75px"/><br>Aurora RDS
       </a>  
     </td>
     <td align="center">
       <a href="https://aws.amazon.com/sqs">
-        <img src="assets/svg/sqs.svg"/><br>SQS
+        <img src="assets/svg/sqs.svg" height="75px"/><br>SQS
       </a>  
     </td>
     <td align="center">
       <a href="https://aws.amazon.com/s3">
-        <img src="assets/svg/s3Bucket.svg"/><br>S3 Bucket
+        <img src="assets/svg/s3Bucket.svg" height="75px"/><br>S3 Bucket
       </a>  
     </td>
     <td align="center">
       <a href="https://aws.amazon.com/cloudfront">
-        <img src="assets/svg/cloudFront.svg"/><br>CloudFront
+        <img src="assets/svg/cloudFront.svg" height="75px"/><br>CloudFront
+      </a>  
+    </td>
+    <td align="center">
+      <a href="https://aws.amazon.com/sns">
+        <img src="assets/svg/sns.svg"  height="75px"/><br>SNS
       </a>  
     </td>
   </tr>
