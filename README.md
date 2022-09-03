@@ -103,6 +103,7 @@
 
 | Description                                                              | Repository                                                                | Website                                                                           |
 | ------------------------------------------------------------------------ | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| ![](/assets/img/git-repository-line.svg) Python Django Hello World       | [repository](https://github.com/asudbury/python-django-hello-world)       |                                                                                   |
 | ![](/assets/img/git-repository-line.svg) Showcase                        | [repository](https://github.com/asudbury/showcase)                        | https://asudbury.github.io/showcase                                               |
 | ![](/assets/img/git-repository-line.svg) SpaceX Launches                 | [repository](https://github.com/asudbury/spacex-launches)                 | https://asudbury.github.io/spacex-launches                                        |
 | ![](/assets/img/git-repository-line.svg) Azure Static Web App            | [repository](https://github.com/asudbury/azure-static-web-app)            | https://nice-plant-05bbd1103.azurestaticapps.net/                                 |
