@@ -103,6 +103,7 @@
 
 | Description                                                              | Repository                                                                | Website                                                                           |
 | ------------------------------------------------------------------------ | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| ![](/assets/img/git-repository-line.svg) Python Django Rest Framework    | [repository](https://github.com/asudbury/python-django-rest-framework)    |
 | ![](/assets/img/git-repository-line.svg) Python Django Hello World       | [repository](https://github.com/asudbury/python-django-hello-world)       |                                                                                   |
 | ![](/assets/img/git-repository-line.svg) Showcase                        | [repository](https://github.com/asudbury/showcase)                        | https://asudbury.github.io/showcase                                               |
 | ![](/assets/img/git-repository-line.svg) SpaceX Launches                 | [repository](https://github.com/asudbury/spacex-launches)                 | https://asudbury.github.io/spacex-launches                                        |
