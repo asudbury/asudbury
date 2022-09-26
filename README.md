@@ -103,7 +103,7 @@
 
 | Description                                                              | Repository                                                                | Website                                                                           |
 | ------------------------------------------------------------------------ | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| ![](/assets/img/git-repository-line.svg) NextJS Material Dashboard       | [repository](https://github.com/asudbury/nextjs-hello-world)              | https://nextjs-material-dashboard-two.vercel.app                                  |
+| ![](/assets/img/git-repository-line.svg) NextJS Material Dashboard       | [repository](https://github.com/asudbury/nextjs-material-dashboard)       | https://nextjs-material-dashboard-two.vercel.app                                  |
 | ![](/assets/img/git-repository-line.svg) NextJS Hello World              | [repository](https://github.com/asudbury/nextjs-hello-world)              | https://nextjs-hello-world-blush.vercel.app                                       |
 | ![](/assets/img/git-repository-line.svg) Python Django Rest Framework    | [repository](https://github.com/asudbury/python-django-rest-framework)    |
 | ![](/assets/img/git-repository-line.svg) Python Django Hello World       | [repository](https://github.com/asudbury/python-django-hello-world)       |                                                                                   |
