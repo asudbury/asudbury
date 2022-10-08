@@ -43,8 +43,8 @@
       </a>  
     </td>
     <td align="center">
-      <a href="https://aws.amazon.com/vpc">
-        <img src="assets/svg/vpc.svg"  height="75px"/><br>VPC
+      <a href="https://aws.amazon.com/step-functions">
+        <img src="assets/svg/stepfunction.svg"  height="75px"/><br>Step Functions
       </a>  
     </td>
     <td align="center">
