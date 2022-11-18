@@ -1,4 +1,4 @@
-<h2>Hey 👋, I'm Adrian Sudbury <br />currently looking for work opportunities!</h2>
+<h2>Hey 👋, I'm Adrian Sudbury</h2>
 
 <br />
 <h3>Get In Touch at <a href="mailto:sudburya@gmail.com">sudburya@gmail.com</a></h3>
