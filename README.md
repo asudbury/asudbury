@@ -25,8 +25,8 @@
       </a>  
     </td>
     <td align="center">
-      <a href="https://pulumi.com">
-        <img src="assets/svg/pulumi.svg" height="75px"><br>Pulumi
+      <a href="https://aws.amazon.com/appsync/">
+        <img src="assets/svg/appsync.svg" height="75px"><br>App Sync
       </a>  
     </td>
     <td align="center">
