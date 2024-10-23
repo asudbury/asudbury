@@ -143,6 +143,6 @@
 
 <br>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=asudbury&theme=onedark&row=2&column=5)]
+![trophy](https://github-profile-trophy.vercel.app/?username=asudbury&theme=onedark&row=2&column=5)
 
 
