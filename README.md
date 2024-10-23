@@ -8,7 +8,7 @@
 <br />
 
 <table cellspacing="5" cellpadding="5" width="100%">
-  <tr> 
+  <tr>
     <td align="center">
       <a href="https://nodejs.org/">
         <img src="assets/svg/nodejs.svg"/><br>NodeJS
@@ -17,17 +17,17 @@
     <td align="center">
       <a href="https://typescriptlang.org">
         <img src="assets/svg/typescript.svg"/><br>TypeScript
-      </a>  
+      </a>
     </td>
     <td align="center">
       <a href="https://reactjs.org">
         <img src="assets/svg/react.svg"/><br>React
-      </a>  
+      </a>
     </td>
     <td align="center">
       <a href="https://aws.amazon.com/appsync/">
         <img src="assets/svg/appsync.svg" height="75px"><br>App Sync
-      </a>  
+      </a>
     </td>
     <td align="center">
       <a href="https://aws.amazon.com/cdk">
@@ -40,54 +40,54 @@
     <td align="center">
       <a href="https://aws.amazon.com/serverless">
         <img src="assets/svg/serverless.svg"  height="75px"/><br>Serverless
-      </a>  
+      </a>
     </td>
     <td align="center">
       <a href="https://aws.amazon.com/step-functions">
         <img src="assets/svg/stepfunction.svg"  height="75px"/><br>Step Functions
-      </a>  
+      </a>
     </td>
     <td align="center">
       <a href="https://aws.amazon.com/api-gateway">
         <img src="assets/svg/apigateway.svg" height="75px"/><br>API Gateway
-      </a>  
+      </a>
     </td>
     <td align="center">
       <a href="https://aws.amazon.com/lambda">
         <img src="assets/svg/lambda.svg" height="75px"/><br>Lambda
-      </a>  
+      </a>
     </td>
         <td align="center">
       <a href="https://aws.amazon.com/dynamodb">
         <img src="assets/svg/dynamodb.svg"  height="75px"/><br>DynamoDB
-      </a>  
+      </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://aws.amazon.com/rds/aurora">
         <img src="assets/svg/aurora.svg" height="75px"/><br>Aurora RDS
-      </a>  
+      </a>
     </td>
     <td align="center">
       <a href="https://aws.amazon.com/sqs">
         <img src="assets/svg/sqs.svg" height="75px"/><br>SQS
-      </a>  
+      </a>
     </td>
     <td align="center">
       <a href="https://aws.amazon.com/s3">
         <img src="assets/svg/s3Bucket.svg" height="75px"/><br>S3 Bucket
-      </a>  
+      </a>
     </td>
     <td align="center">
       <a href="https://aws.amazon.com/cloudfront">
         <img src="assets/svg/cloudFront.svg" height="75px"/><br>CloudFront
-      </a>  
+      </a>
     </td>
     <td align="center">
       <a href="https://aws.amazon.com/sns">
         <img src="assets/svg/sns.svg"  height="75px"/><br>SNS
-      </a>  
+      </a>
     </td>
   </tr>
 </table>
@@ -104,7 +104,6 @@
 | Description                                                              | Repository                                                                | Website                                                                           |
 | ------------------------------------------------------------------------ | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | ![](/assets/img/git-repository-line.svg) Showcase                        | [repository](https://github.com/asudbury/showcase)                        | https://asudbury.github.io/showcase                                               |
-| ![](/assets/img/git-repository-line.svg) React OpenAI                        | [repository](https://github.com/asudbury/react-openai)                        | https://asudbury.github.io/react-openai                                               |
 | ![](/assets/img/git-repository-line.svg) NextJS Material Dashboard       | [repository](https://github.com/asudbury/nextjs-material-dashboard)       | https://nextjs-material-dashboard-two.vercel.app                                  |
 | ![](/assets/img/git-repository-line.svg) NextJS Hello World              | [repository](https://github.com/asudbury/nextjs-hello-world)              | https://nextjs-hello-world-blush.vercel.app                                       |
 | ![](/assets/img/git-repository-line.svg) SpaceX Launches                 | [repository](https://github.com/asudbury/spacex-launches)                 | https://asudbury.github.io/spacex-launches                                        |
@@ -141,3 +140,9 @@
 | ![](/assets/img/git-repository-line.svg) React Redux Todo                | [repository](https://github.com/asudbury/react-redux-todo)                | https://asudbury.github.io/react-redux-todo                                       |
 | ![](/assets/img/git-repository-line.svg) React Redux Toolkit Todo        | [repository](https://github.com/asudbury/react-redux-toolkit-todo)        | https://asudbury.github.io/react-redux-toolkit-todo                               |
 | ![](/assets/img/git-repository-line.svg) Fireworks                       | [repository](https://github.com/asudbury/fireworks)                       | https://asudbury.github.io/fireworks                                              |
+
+<br>
+
+![trophy](https://github-profile-trophy.vercel.app/?username=asudbury&theme=onedark&row=2&column=5)]
+
+
