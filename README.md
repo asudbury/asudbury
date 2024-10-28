@@ -101,6 +101,12 @@
   </tr>
 </table>
 
+<br>
+
+![trophy](https://github-profile-trophy.vercel.app/?username=asudbury&theme=onedark&row=2&column=5&margin-w=15&margin-h=15&no-bg=true)
+
+<br>
+
 | Description                                                              | Repository                                                                | Website                                                                           |
 | ------------------------------------------------------------------------ | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | ![](/assets/img/git-repository-line.svg) Showcase                        | [repository](https://github.com/asudbury/showcase)                        | https://asudbury.github.io/showcase                                               |
@@ -140,9 +146,3 @@
 | ![](/assets/img/git-repository-line.svg) React Redux Todo                | [repository](https://github.com/asudbury/react-redux-todo)                | https://asudbury.github.io/react-redux-todo                                       |
 | ![](/assets/img/git-repository-line.svg) React Redux Toolkit Todo        | [repository](https://github.com/asudbury/react-redux-toolkit-todo)        | https://asudbury.github.io/react-redux-toolkit-todo                               |
 | ![](/assets/img/git-repository-line.svg) Fireworks                       | [repository](https://github.com/asudbury/fireworks)                       | https://asudbury.github.io/fireworks                                              |
-
-<br>
-
-![trophy](https://github-profile-trophy.vercel.app/?username=asudbury&theme=onedark&row=2&column=5&margin-w=15&margin-h=15&no-bg=true)
-
-
