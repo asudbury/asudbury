@@ -96,8 +96,8 @@
 
 <table align="left" cellspacing="0" cellpadding="0" width="100%">
   <tr>
-    <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asudbury" /></td>
-    <td> <img align="center" src="https://github-readme-stats.vercel.app/api?username=asudbury&show_icons=true" /></td>
+    <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asudbury&theme=radical" /></td>
+    <td> <img align="center" src="https://github-readme-stats.vercel.app/api?username=asudbury&show_icons=true&theme=radical" /></td>
   </tr>
 </table>
 
