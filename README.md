@@ -94,17 +94,10 @@
 
 <br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asudbury" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</a>
-
 <table align="left" cellspacing="0" cellpadding="0" width="100%">
   <tr>
-    <td> <img src="https://raw.githubusercontent.com/asudbury/github-stats-transparent/output/generated/overview.svg" alt="Adrian Sudbury GitHub stats"  /></td>
-    <td><img src="https://raw.githubusercontent.com/asudbury/github-stats-transparent/output/generated/languages.svg" alt="Languages used" /></td>
+    <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asudbury" /></td>
+    <td> <img align="center" src="https://github-readme-stats.vercel.app/api?username=asudbury&show_icons=true" /></td>
   </tr>
 </table>
 
