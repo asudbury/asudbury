@@ -1,111 +1,44 @@
-<h2>Hey 👋, I'm Adrian Sudbury</h2>
+# 👋 Hi, I'm Adrian Sudbury
 
-<br />
-<h3>Get In Touch at <a href="mailto:sudburya@gmail.com">sudburya@gmail.com</a></h3>
+**🚀 Mobile App, Website & AWS Architect | Designer | Developer**
+📍 Nottingham, England
 
-<h3>I'm currently working on&nbsp;&nbsp;&nbsp;<img src="assets/svg/aws.svg"/>&nbsp;&nbsp;&nbsp;with the following</h3>
+<h4>Get In Touch at <a href="mailto:sudburya@gmail.com">sudburya@gmail.com</a></h4>
 
-<br />
+---
 
-<table cellspacing="5" cellpadding="5" width="100%">
-  <tr>
-    <td align="center">
-      <a href="https://nodejs.org/">
-        <img src="assets/svg/nodejs.svg"/><br>NodeJS
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://typescriptlang.org">
-        <img src="assets/svg/typescript.svg"/><br>TypeScript
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://reactjs.org">
-        <img src="assets/svg/react.svg"/><br>React
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://aws.amazon.com/appsync/">
-        <img src="assets/svg/appsync.svg" height="75px"><br>App Sync
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://aws.amazon.com/cdk">
-        <img src="assets/svg/cdk.svg" height="75px"><br>AWS CDK
-      </a>
-    </td>
+## 🌟 About Me
 
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://aws.amazon.com/serverless">
-        <img src="assets/svg/serverless.svg"  height="75px"/><br>Serverless
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://aws.amazon.com/step-functions">
-        <img src="assets/svg/stepfunction.svg"  height="75px"/><br>Step Functions
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://aws.amazon.com/api-gateway">
-        <img src="assets/svg/apigateway.svg" height="75px"/><br>API Gateway
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://aws.amazon.com/lambda">
-        <img src="assets/svg/lambda.svg" height="75px"/><br>Lambda
-      </a>
-    </td>
-        <td align="center">
-      <a href="https://aws.amazon.com/dynamodb">
-        <img src="assets/svg/dynamodb.svg"  height="75px"/><br>DynamoDB
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://aws.amazon.com/rds/aurora">
-        <img src="assets/svg/aurora.svg" height="75px"/><br>Aurora RDS
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://aws.amazon.com/sqs">
-        <img src="assets/svg/sqs.svg" height="75px"/><br>SQS
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://aws.amazon.com/s3">
-        <img src="assets/svg/s3Bucket.svg" height="75px"/><br>S3 Bucket
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://aws.amazon.com/cloudfront">
-        <img src="assets/svg/cloudFront.svg" height="75px"/><br>CloudFront
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://aws.amazon.com/sns">
-        <img src="assets/svg/sns.svg"  height="75px"/><br>SNS
-      </a>
-    </td>
-  </tr>
-</table>
+I’m a **full-stack engineer and cloud architect** with a passion for designing scalable applications and modern digital experiences.
+I specialise in **AWS, React, Node.js, and TypeScript**, building everything from **mobile apps** to **cloud-native systems**.
 
-<br>
+💡 My focus: turning ideas into **production-ready products** that are secure, performant, and user-friendly.
 
-<table align="left" cellspacing="0" cellpadding="0" width="100%">
-  <tr>
-    <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asudbury&theme=radical" /></td>
-    <td> <img align="center" src="https://github-readme-stats.vercel.app/api?username=asudbury&show_icons=true&theme=radical" /></td>
-  </tr>
-</table>
+---
 
-<br>
+## 🛠️ Tech Toolbox
+
+- **Languages & Frameworks**: TypeScript, Node.js, React, React Native
+- **Cloud & Infrastructure**: AWS (Cognito, Step Functions, Lambda, CDK, Amplify), Terraform
+- **Databases**: DynamoDB, PostgreSQL, MySQL
+- **Other**: GraphQL, REST APIs, CI/CD
+
+---
+
+## 📈 GitHub Snapshot
+
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=asudbury&show_icons=true&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asudbury&layout=compact&theme=radical" />
+</p>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=asudbury&theme=onedark&row=2&column=5&margin-w=15&margin-h=15&no-bg=true)
 
+
 <br>
+
+
+## 📌 Highlighted Repos
 
 | Description                                                              | Repository                                                                | Website                                                                           |
 | ------------------------------------------------------------------------ | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
@@ -147,3 +80,4 @@
 | ![](/assets/img/git-repository-line.svg) React Redux Todo                | [repository](https://github.com/asudbury/react-redux-todo)                | <https://asudbury.github.io/react-redux-todo>                                       |
 | ![](/assets/img/git-repository-line.svg) React Redux Toolkit Todo        | [repository](https://github.com/asudbury/react-redux-toolkit-todo)        | <https://asudbury.github.io/react-redux-toolkit-todo>                               |
 | ![](/assets/img/git-repository-line.svg) Fireworks                       | [repository](https://github.com/asudbury/fireworks)                       | <https://asudbury.github.io/fireworks>                                              |
+
