@@ -5,8 +5,6 @@
 
 <h4>Get In Touch at <a href="mailto:sudburya@gmail.com">sudburya@gmail.com</a></h4>
 
----
-
 ## 🌟 About Me
 
 I’m a **full-stack engineer and cloud architect** with a passion for designing scalable applications and modern digital experiences.
@@ -14,16 +12,12 @@ I specialise in **AWS, React, Node.js, and TypeScript**, building everything fro
 
 💡 My focus: turning ideas into **production-ready products** that are secure, performant, and user-friendly.
 
----
-
 ## 🛠️ Tech Toolbox
 
 - **Languages & Frameworks**: TypeScript, Node.js, React, React Native
 - **Cloud & Infrastructure**: AWS (Cognito, Step Functions, Lambda, CDK, Amplify), Terraform
 - **Databases**: DynamoDB, PostgreSQL, MySQL
 - **Other**: GraphQL, REST APIs, CI/CD
-
----
 
 ## 📈 GitHub Snapshot
 
@@ -80,4 +74,5 @@ I specialise in **AWS, React, Node.js, and TypeScript**, building everything fro
 | ![](/assets/img/git-repository-line.svg) React Redux Todo                | [repository](https://github.com/asudbury/react-redux-todo)                | <https://asudbury.github.io/react-redux-todo>                                       |
 | ![](/assets/img/git-repository-line.svg) React Redux Toolkit Todo        | [repository](https://github.com/asudbury/react-redux-toolkit-todo)        | <https://asudbury.github.io/react-redux-toolkit-todo>                               |
 | ![](/assets/img/git-repository-line.svg) Fireworks                       | [repository](https://github.com/asudbury/fireworks)                       | <https://asudbury.github.io/fireworks>                                              |
+
 
