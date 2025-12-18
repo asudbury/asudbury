@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Adrian Sudbury
+# Hi, I'm Adrian Sudbury 👋
 
 **🚀 Mobile App, Website & AWS Architect | Designer | Developer**
 📍 Nottingham, England
@@ -10,14 +10,39 @@
 I’m a **full-stack engineer and cloud architect** with a passion for designing scalable applications and modern digital experiences.
 I specialise in **AWS, React, Node.js, and TypeScript**, building everything from **mobile apps** to **cloud-native systems**.
 
-💡 My focus: turning ideas into **production-ready products** that are secure, performant, and user-friendly.
+## 🧠 What I Focus On
 
-## 🛠️ Tech Toolbox
+- Designing real‑world React applications, not just demos
+
+- Accessibility‑first UI/UX design
+
+- Clean separation of UI, state, and business rules
+
+- Testing with Vitest and coverage‑driven development
+
+- Serverless & cloud workflows using AWS
+
+- Exploring AI tooling to improve developer and user experience
+
+## 🛠️ Core Tech Stack
 
 - **Languages & Frameworks**: TypeScript, Node.js, React, React Native
-- **Cloud & Infrastructure**: AWS (Cognito, Step Functions, Lambda, CDK, Amplify), Terraform
+
+- **Cloud & Infrastructure**: AWS (Cognito, Step Functions, Lambda, CDK, Amplify),
+Terraform
 - **Databases**: DynamoDB, PostgreSQL, MySQL
+
+- **Dev Tools**: Git, GitHub, VS Code, Vitest, ESLint, Prettier, Zod
+
 - **Other**: GraphQL, REST APIs, CI/CD
+
+## 🧩 How I Work
+
+- I favour simple, testable solutions over unnecessary abstraction
+
+- I prioritize maintainability and smooth team handovers
+
+- I’m comfortable balancing UX, technical constraints, and delivery
 
 ## 📈 GitHub Snapshot
 
