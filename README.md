@@ -36,7 +36,7 @@ Terraform
 
 - **Other**: GraphQL, REST APIs, CI/CD
 
-## 🧩 How I Work
+## ⚙️ How I Work
 
 - I favour simple, testable solutions over unnecessary abstraction
 
@@ -48,20 +48,15 @@ Terraform
 
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=asudbury&show_icons=true&theme=radical" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asudbury&layout=compact&theme=radical" />
-<br>
 
 ## 🧩 Templates
 
 Reusable templates and starter kits — scaffolded starters, UI components, and deployment-ready boilerplates to help you launch projects faster.
 
-
-
-![](/assets/img/git-repository-line.svg) Modern React Template <a href="https://github.com/asudbury/modern-react-template" target="_blank">https://github.com/asudbury/modern-react-template</a>
-
-![](/assets/img/git-repository-line.svg) Modern React Template (Lite) <a href="https://github.com/asudbury/modern-react-template-lite" target="_blank">https://github.com/asudbury/modern-react-template-lite</a>
-
-
-<br>
+| Name | Repository |
+| ---- | ---------- |
+| ![](/assets/img/git-repository-line.svg) Modern React Template | <a href="https://github.com/asudbury/modern-react-template" target="_blank">modern-react-template</a> |
+| ![](/assets/img/git-repository-line.svg) Modern React Template (Lite) | <a href="https://github.com/asudbury/modern-react-template-lite" target="_blank">modern-react-template-lite</a> |
 
 ## 📌 Highlighted Repos
 
