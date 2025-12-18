@@ -21,22 +21,29 @@ I specialise in **AWS, React, Node.js, and TypeScript**, building everything fro
 
 ## 📈 GitHub Snapshot
 
-<p>
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=asudbury&show_icons=true&theme=radical" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asudbury&layout=compact&theme=radical" />
-</p>
+<br>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=asudbury&theme=onedark&row=2&column=5&margin-w=15&margin-h=15&no-bg=true)
+## 🧩 Templates
+
+Reusable templates and starter kits — scaffolded starters, UI components, and deployment-ready boilerplates to help you launch projects faster.
+
+
+![](/assets/img/git-repository-line.svg) Modern React Template     https://github.com/asudbury/modern-react-template
+
+![](/assets/img/git-repository-line.svg) Modern React Template (Lite)  https://github.com/asudbury/modern-react-template-lite
 
 
 <br>
-
 
 ## 📌 Highlighted Repos
 
 | Description                                                              | Repository                                                                | Website                                                                           |
 | ------------------------------------------------------------------------ | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | ![](/assets/img/git-repository-line.svg) Showcase                        | [repository](https://github.com/asudbury/showcase)                        | <https://asudbury.github.io/showcase>                                               |
+| ![](/assets/img/git-repository-line.svg) Modern React Template          | [repository](https://github.com/asudbury/modern-react-template)          | <https://github.com/asudbury/modern-react-template>                                |
+| ![](/assets/img/git-repository-line.svg) Modern React Template (Lite)   | [repository](https://github.com/asudbury/modern-react-template-lite)     | <https://github.com/asudbury/modern-react-template-lite>                           |
 | ![](/assets/img/git-repository-line.svg) Mac OS react                    | [repository](https://github.com/asudbury/macOS-react)                        | <https://asudbury.github.io/macOS-react>                                               |
 | ![](/assets/img/git-repository-line.svg) NextJS Material Dashboard       | [repository](https://github.com/asudbury/nextjs-material-dashboard)       | <https://nextjs-material-dashboard-two.vercel.app>                                  |
 | ![](/assets/img/git-repository-line.svg) NextJS Hello World              | [repository](https://github.com/asudbury/nextjs-hello-world)              | <https://nextjs-hello-world-blush.vercel.app>                                       |
