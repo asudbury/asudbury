@@ -60,7 +60,7 @@ Reusable templates and starter kits — scaffolded starters, UI components, and 
 
 ## 📌 Highlighted Repos
 
-| Description                                                              | Repository                                                                | Website                                                                           |
+| Name                                                              | Repository                                                                | Website                                                                           |
 | ------------------------------------------------------------------------ | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | ![](/assets/img/git-repository-line.svg) Showcase                        | <a href="https://github.com/asudbury/showcase" target="_blank">repository</a>                        | <a href="https://asudbury.github.io/showcase" target="_blank">showcase</a>                                               |
 | ![](/assets/img/git-repository-line.svg) Modern React Template          | <a href="https://github.com/asudbury/modern-react-template" target="_blank">repository</a>          | <a href="https://github.com/asudbury/modern-react-template" target="_blank">modern-react-template</a>                                |
