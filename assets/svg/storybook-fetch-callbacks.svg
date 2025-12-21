@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="170" height="28" role="img" aria-label="Storybook: fetch with Callbacks">
+  <linearGradient id="b" x2="0" y2="100%">
+    <stop offset="0" stop-color="#fff" stop-opacity=".7"/>
+    <stop offset="1" stop-opacity=".7"/>
+  </linearGradient>
+  <mask id="a">
+    <rect width="170" height="28" rx="4" fill="#fff"/>
+  </mask>
+  <g mask="url(#a)">
+    <rect width="80" height="28" fill="#ff4785"/>
+    <rect x="80" width="90" height="28" fill="#555"/>
+    <rect width="170" height="28" fill="url(#b)"/>
+  </g>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="14">
+    <text x="40" y="19" fill="#fff" font-weight="bold">Storybook</text>
+    <text x="125" y="19" fill="#fff">fetch with Callbacks</text>
+  </g>
+</svg>

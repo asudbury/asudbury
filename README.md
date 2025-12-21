@@ -53,10 +53,12 @@ Terraform
 
 Reusable templates and starter kits — scaffolded starters, UI components, and deployment-ready boilerplates to help you launch projects faster.
 
-| Name | Repository | Website | Docs |
-| ---- | ---------- | ------- | ------- |
+| Name | Repository | Website | Docs | Npm |
+| ---- | ---------- | ------- | ------- | ----- |
 | ![](/assets/img/git-repository-line.svg) Modern React Template | <a href="https://github.com/asudbury/modern-react-template" target="_blank">repository</a> | <a href="https://asudbury.github.io/modern-react-template" target="_blank">modern-react-template</a> | [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/asudbury/modern-react-template) |
 | ![](/assets/img/git-repository-line.svg) Modern React Template (Lite) | <a href="https://github.com/asudbury/modern-react-template-lite" target="_blank">repository</a> | | [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/asudbury/modern-react-template-lite) |
+| ![](/assets/img/git-repository-line.svg) Use Fetch with Callbacks | <a href="https://github.com/asudbury/use-fetch-with-callbacks" target="_blank">repository</a> | <a href="https://asudbury.github.io/use-fetch-with-callbacks" target="_blank">use-fetch-with-callbacks</a> | [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/asudbury/use-fetch-with-callbacks) | <a href="https://www.npmjs.com/package/use-fetch-with-callbacks" target="_blank"><img src="https://img.shields.io/npm/v/use-fetch-with-callbacks.svg" alt="npm version"/></a> |
+
 
 ## 📌 Highlighted Repos
 
