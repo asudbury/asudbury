@@ -62,6 +62,9 @@ Scaffolded starters, UI components, and deployment-ready boilerplates to help yo
 
 ## 📌 Highlighted Repos
 
+<details>
+<summary>Click to expand highlighted repositories</summary>
+
 | Name                                                              | Repository                                                                | Website                                                                           |
 | ------------------------------------------------------------------------ | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | ![](/assets/img/git-repository-line.svg) Showcase                        | <a href="https://github.com/asudbury/showcase" target="_blank">repository</a>                        | <a href="https://asudbury.github.io/showcase" target="_blank">showcase</a>                                               |
@@ -104,5 +107,7 @@ Scaffolded starters, UI components, and deployment-ready boilerplates to help yo
 | ![](/assets/img/git-repository-line.svg) React Redux Todo                | <a href="https://github.com/asudbury/react-redux-todo" target="_blank">repository</a>                | <a href="https://asudbury.github.io/react-redux-todo" target="_blank">react-redux-todo</a>                                       |
 | ![](/assets/img/git-repository-line.svg) React Redux Toolkit Todo        | <a href="https://github.com/asudbury/react-redux-toolkit-todo" target="_blank">repository</a>        | <a href="https://asudbury.github.io/react-redux-toolkit-todo" target="_blank">react-redux-toolkit-todo</a>                               |
 | ![](/assets/img/git-repository-line.svg) Fireworks                       | <a href="https://github.com/asudbury/fireworks" target="_blank">repository</a>                       | <a href="https://asudbury.github.io/fireworks" target="_blank">fireworks</a>                                              |
+
+</details>
 
 
