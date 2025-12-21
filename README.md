@@ -53,10 +53,10 @@ Terraform
 
 Reusable templates and starter kits — scaffolded starters, UI components, and deployment-ready boilerplates to help you launch projects faster.
 
-| Name | Repository | Website | Docs/Wiki |
+| Name | Repository | Website | Docs |
 | ---- | ---------- | ------- | ------- |
-| ![](/assets/img/git-repository-line.svg) Modern React Template | <a href="https://github.com/asudbury/modern-react-template" target="_blank">repository</a> | <a href="https://asudbury.github.io/modern-react-template" target="_blank">modern-react-template</a> | <a href="https://deepwiki.com/asudbury/modern-react-template" target="_blank">DeepWiki</a> |
-| ![](/assets/img/git-repository-line.svg) Modern React Template (Lite) | <a href="https://github.com/asudbury/modern-react-template-lite" target="_blank">repository</a> | | <a href="https://deepwiki.com/asudbury/modern-react-template-lite" target="_blank">DeepWiki</a> |
+| ![](/assets/img/git-repository-line.svg) Modern React Template | <a href="https://github.com/asudbury/modern-react-template" target="_blank">repository</a> | <a href="https://asudbury.github.io/modern-react-template" target="_blank">modern-react-template</a> | [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/asudbury/modern-react-template) |
+| ![](/assets/img/git-repository-line.svg) Modern React Template (Lite) | <a href="https://github.com/asudbury/modern-react-template-lite" target="_blank">repository</a> | | [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/asudbury/modern-react-template-lite) |
 
 ## 📌 Highlighted Repos
 
