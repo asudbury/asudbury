@@ -49,9 +49,10 @@ Terraform
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=asudbury&show_icons=true&theme=radical" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asudbury&layout=compact&theme=radical" />
 
-## 🧩 Templates
+## 🧩 Templates & Packages
 
-Reusable templates and starter kits — scaffolded starters, UI components, and deployment-ready boilerplates to help you launch projects faster.
+Reusable templates,starter kits and packages.
+Scaffolded starters, UI components, and deployment-ready boilerplates to help you launch projects faster.
 
 | Name | Repository | Website | Docs | Npm |
 | ---- | ---------- | ------- | ------- | ----- |
