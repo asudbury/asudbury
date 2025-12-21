@@ -51,7 +51,9 @@ Terraform
 
 ## 🧩 Templates & Packages
 
-Reusable templates,starter kits and packages.
+Reusable templates, starter kits and packages.
+<br>
+
 Scaffolded starters, UI components, and deployment-ready boilerplates to help you launch projects faster.
 
 | Name | Repository | Website | Docs | Npm |
