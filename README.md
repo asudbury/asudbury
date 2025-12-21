@@ -57,7 +57,7 @@ Scaffolded starters, UI components, and deployment-ready boilerplates to help yo
 | ![](/assets/img/git-repository-line.svg) Modern React Template (Lite) | <a href="https://github.com/asudbury/modern-react-template-lite" target="_blank">repository</a> | | [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/asudbury/modern-react-template-lite) |
 | ![](/assets/img/git-repository-line.svg) Modern Mono Repo Template | <a href="https://github.com/asudbury/modern-monorepo-template" target="_blank">repository</a> | | [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/asudbury/modern-monorepo-template) |
 | ![](/assets/img/git-repository-line.svg) Use Fetch with Callbacks | <a href="https://github.com/asudbury/use-fetch-with-callbacks" target="_blank">repository</a> | <a href="https://asudbury.github.io/use-fetch-with-callbacks" target="_blank">use-fetch-with-callbacks</a> | [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/asudbury/use-fetch-with-callbacks) | <a href="https://www.npmjs.com/package/use-fetch-with-callbacks" target="_blank"><img src="https://img.shields.io/npm/v/use-fetch-with-callbacks.svg" alt="npm version"/></a> |
-
+| ![](/assets/img/git-repository-line.svg) Use Session Storage | <a href="https://github.com/asudbury/use-session-storage" target="_blank">repository</a> | <a href="https://asudbury.github.io/use-session-storage" target="_blank">use-session-storage</a> | [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/asudbury/use-session-storage) | <a href="https://www.npmjs.com/package/@asudbury/use-session-storage" target="_blank"><img src="https://img.shields.io/npm/v/@asudbury/use-session-storage.svg" alt="npm version"/></a> |
 
 
 ## 📌 Highlighted Repos
