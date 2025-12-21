@@ -44,11 +44,6 @@ Terraform
 
 - I’m comfortable balancing UX, technical constraints, and delivery
 
-## 📈 GitHub Snapshot
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=asudbury&show_icons=true&theme=radical" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asudbury&layout=compact&theme=radical" />
-
 ## 🧩 Templates & Packages
 
 Reusable templates, starter kits and packages.
